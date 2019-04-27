@@ -1,0 +1,12 @@
+{
+    "extensions.ignoreRecommendations": true,
+    "C_Cpp.default.configurationProvider": "particle.particle-vscode-core",
+    "files.associations": {
+        "*.ino": "cpp"
+    },
+    "particle.targetDevice": "boat-sentry",
+    "particle.firmwareVersion": "1.1.0-rc.1",
+    "particle.targetPlatform": "electron",
+    "cortex-debug.openocdPath": "/home/kmoses/.particle/toolchains/openocd/0.10.0-particle.1/bin/openocd",
+    "git.ignoreLimitWarning": true
+}
